@@ -8,3 +8,4 @@ firewall-cmd --permanent --add-port=4433/TCP
 firewall-cmd --permanent --add-port=8170/TCP
 firewall-cmd --permanent --add-port=8140/TCP
 firewall-cmd --permanent --add-port=8143/TCP
+
